@@ -94,7 +94,7 @@ class MainmenuView extends StatefulWidget {
                         height: 5.0,
                       ),
                       const Text(
-                        "Ahmad Balya Afandi",
+                        "Ahmad Dhani",
                         style: TextStyle(
                           fontSize: 18.0,
                           fontWeight: FontWeight.bold,
